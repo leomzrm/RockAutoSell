@@ -1,3 +1,6 @@
+
+<img width="300" height="133" alt="image" src="https://github.com/user-attachments/assets/5d55eb89-0199-485a-824b-8e2f020fdafa" />
+
 # RockAutoSell
 Auto-Sell System with GUI and Toggleable Items.
 RockAutoSell is a lightweight, optimized, and user-friendly plugin that allows players to toggle automatic selling of specific items using a customizable GUI.
