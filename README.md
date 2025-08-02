@@ -12,18 +12,22 @@ RockAutoSell is a lightweight, optimized, and user-friendly plugin that allows p
 - 1.21.x
 
 # Main Features
-- Easy-to-use GUI – Players can enable or disable auto-sell per item using a simple graphical interface;
-- JSON-Based Item Configuration – Add custom sellable items with specific prices and materials;
-- Auto-Sell Toggle System – Players choose which items will be sold automatically;
+- Easy-to-use GUI – Players can enable or disable AutoSell per item using a simple interface;
+- Items Configuration – Add custom sellable items with specific prices and materials;
+- Notifications - Players receive a notification of the latest sales;
+- Customizable – Change the system however you like, including cooldowns, notifications, and more.;
 - Language Support – Fully translatable messages;
-- Permissions – Control access to commands and features.
+- Permissions – Control access to multipliers, commands and features.
 
 # Cases
-- RockAutoSell fits any type of server where auto-selling is useful, including:
+RockAutoSell fits any type of server where auto-selling is useful, including:
 - Prison – Automatically sell mined ores and blocks;
 - Survival – Auto-sell farmed crops or mob drops;
 - SkyBlock – Automate income sources;
 - RankUp – Combine with economy and progress systems.
+
+# How it Works?
+When a player breaks a block, the plugin checks if any item in their inventory can be sold. If so, it's instantly sold and money is given. A cooldown (customizable) prevents it from happening too quickly.
 
 # Dependencies
 - [Vault](https://www.spigotmc.org/resources/vault.34315/)
