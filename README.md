@@ -29,6 +29,10 @@ RockAutoSell fits any type of server where auto-selling is useful, including:
 # How it Works?
 When a player breaks a block, the plugin checks if any item in their inventory can be sold. If so, it's instantly sold and money is given. A cooldown (customizable) prevents it from happening too quickly.
 
+## Demo:
+![RockAutoSellDemo](https://github.com/user-attachments/assets/40d7e115-83a0-4dd3-ba6b-7147100bba84)
+
+
 # Dependencies
 - [Vault](https://www.spigotmc.org/resources/vault.34315/)
 - An Economy Plugin
